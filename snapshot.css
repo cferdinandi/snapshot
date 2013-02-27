@@ -53,7 +53,7 @@ img, audio, video, canvas { max-width: 100%; }
 /*  Adds padding and a white border */
 .img-polaroid { 
     padding: .235294118em; 
-    background-color: #ffffff.176470588; 
+    background-color: #ffffff; 
 }
 
 /*  Adds a 50% border radius,
