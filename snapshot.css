@@ -1,18 +1,20 @@
-/*
+/* =============================================================
 
-    NAME.CSS v1.0
-    Description
-    http://gomakethings.com
+    Snapshot v1.0
+    a collection of simple image styling adapted from Bootstrap.
+    http://getbootstrap.com
 
 
-    Licensed under WTFPL.
-    http://www.wtfpl.net/
+    licensed under Apache License v2.0.
+    http://www.apache.org/licenses/LICENSE-2.0
     
+ * ============================================================= */
 
-*/
 
-/*  RESPONSIVE RESET */
-/*  Replace with your own */
+/* =============================================================
+    RESPONSIVE RESET
+    Replace with your own.
+ * ============================================================= */
 
 @-webkit-viewport { width: device-width; zoom: 1.0; }
    @-moz-viewport { width: device-width; zoom: 1.0; }
@@ -36,8 +38,10 @@ img, audio, video, canvas { max-width: 100%; }
 
 
 
-/*  SNAPSHOT */
-/*  Image styling */
+/* =============================================================
+    SNAPSHOT
+    Image styling.
+ * ============================================================= */
 
 /*  Adds a slight border radius */
 .img-rounded { 
