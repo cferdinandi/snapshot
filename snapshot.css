@@ -1,33 +1,33 @@
 /* =============================================================
 
-    Snapshot v1.0
-    A collection of simple image styling adapted from Bootstrap.
-    http://getbootstrap.com
+	Snapshot v1.0
+	A collection of simple image styling adapted from Bootstrap.
+	http://getbootstrap.com
 
-    Licensed under Apache License v2.0.
-    http://www.apache.org/licenses/LICENSE-2.0
-    
+	Licensed under Apache License v2.0.
+	http://www.apache.org/licenses/LICENSE-2.0
+
  * ============================================================= */
 
 /*  Adds a slight border radius */
-.img-rounded { 
-    border-radius: .352941176em; 
+.img-rounded {
+	border-radius: .352941176em;
 }
 
 /*  Adds a border and box shadow */
-.img-border, .img-polaroid { 
-    border: .071428571em solid #ccc;
-    box-shadow: 0 .071428571em .176470588em rgba(0, 0, 0, 0.1); 
+.img-border, .img-polaroid {
+	border: .071428571em solid #ccc;
+	box-shadow: 0 .071428571em .176470588em rgba(0, 0, 0, 0.1);
 }
 
 /*  Adds padding and a white border */
-.img-polaroid { 
-    padding: .235294118em; 
-    background-color: #ffffff; 
+.img-polaroid {
+	padding: .235294118em;
+	background-color: #ffffff;
 }
 
 /*  Adds a 50% border radius,
  *  turning square images into a circle. */
-.img-circle { 
-    border-radius: 50%; 
+.img-circle {
+	border-radius: 50%;
 }
