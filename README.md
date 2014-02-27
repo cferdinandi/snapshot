@@ -1,18 +1,60 @@
 # Snapshot
-Snapshot is a collection of simple image styles.
+Simple image styling. [View the demo](http://cferdinandi.github.io/snapshot/).
 
-## How It Works
-Getting started with Snapshot is really easy. [View the online tutorial](http://cferdinandi.github.com/snapshot/) or dig through the `index.html` file.
+**In This Documentation**
 
-## Changelog
-* v2.0 (December 2, 2013)
-  * Rebuilt from scratch.
-  * Added Sass support.
-  * Switched to MIT License.
-* v1.0 (February 13, 2013)
-  * Renamed `example.html` to `index.html`.
-* v1.0 (February 5, 2013)
-  * Initial release.
+1. [Getting Started](#getting-started)
+2. [Browser Compatibility](#browser-compatibility)
+3. [License](#license)
+4. [Changelog](#changelog)
+
+
+
+## Getting Started
+
+### 1. Include Snapshot on your site.
+
+```html
+<link rel="stylesheet" href="css/snapshot-css.css">
+```
+
+Snapshot is [built with Sass](http://sass-lang.com/) for easy customization. If you don't use Sass, that's ok. The `css` folder contains compiled vanilla CSS.
+
+The `_config.scss` and `_mixins.scss` files are the same ones used in [Kraken](http://cferdinandi.github.io/kraken/), so you can drop the `_snapshot.css` file right into Kraken without making any updates. Or, adjust the variables to suit your own project.
+
+### 2. Add the markup to your HTML.
+
+```html
+<img class="img-circle" src="#">
+<img class="img-border" src="#">
+<img class="img-photo" src="#">
+```
+
+Add simple `.img-*` classes to any `img` element to add styling. You can combine classes for additional styling options. Mix-and-match as desired.
+
+And that's it, you're done. Nice work!
+
+
+
+## Browser Compatability
+
+Because IE 8 and lower do not support the `border-radius` property, `.img-circle` will not work in those browsers.
+
+Snapshot is fully supported by IE 9 and higher, and all modern browsers.
+
+
 
 ## License
 Snapshot is licensed under the [MIT License](http://gomakethings.com/mit/).
+
+
+
+## Changelog
+* v2.0 - December 2, 2013
+	* Rebuilt from scratch.
+	* Added Sass support.
+	* Switched to MIT License.
+* v1.0 - February 13, 2013
+	* Renamed `example.html` to `index.html`.
+* v1.0 - February 5, 2013
+	* Initial release.
