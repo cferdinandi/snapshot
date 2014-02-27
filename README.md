@@ -36,7 +36,7 @@ And that's it, you're done. Nice work!
 
 
 
-## Browser Compatability
+## Browser Compatibility
 
 Because IE 8 and lower do not support the `border-radius` property, `.img-circle` will not work in those browsers.
 
