@@ -1,5 +1,7 @@
 # Snapshot
-Simple image styling. [View the demo](http://cferdinandi.github.io/snapshot/).
+Simple image styling.
+
+[Download Snapshot 2](https://github.com/cferdinandi/snapshot/archive/master.zip) / [View the demo](http://cferdinandi.github.io/snapshot/)
 
 **In This Documentation**
 
