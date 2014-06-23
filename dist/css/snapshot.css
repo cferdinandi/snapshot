@@ -1,0 +1,24 @@
+/**
+ * Snapshot v2.1.0
+ * A collection of simple image styles, by Chris Ferdinandi.
+ * http://github.com/cferdinandi/snapshot
+ * 
+ * Free to use under the MIT License.
+ * http://gomakethings.com/mit/
+ */
+
+/*  Adds a border */
+.img-border, .img-photo {
+  border: 0.0725em solid #cccccc; }
+
+/*  Adds padding and a white border */
+.img-photo {
+  padding: 0.25em;
+  background-color: #ffffff;
+  -webkit-box-shadow: 0 0.0725em 0.0725em rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0.0725em 0.0725em rgba(0, 0, 0, 0.1); }
+
+/*  Adds a 50% border radius,
+ *  turning square images into a circle. */
+.img-circle {
+  border-radius: 50%; }
