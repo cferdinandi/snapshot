@@ -20,7 +20,7 @@ Compiled and production-ready code can be found in the `dist` directory. The `sr
 ### 1. Include Snapshot on your site.
 
 ```html
-<link rel="stylesheet" href="dist/css/snapshot-css.css">
+<link rel="stylesheet" href="dist/css/snapshot.css">
 ```
 
 Snapshot is [built with Sass](http://sass-lang.com/) for easy customization. If you don't use Sass, that's ok. The `css` folder contains compiled vanilla CSS.
