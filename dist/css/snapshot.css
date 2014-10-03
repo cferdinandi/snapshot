@@ -1,5 +1,5 @@
 /**
- * Snapshot v2.2.0
+ * Snapshot v2.2.1
  * A collection of simple image styles, by Chris Ferdinandi.
  * http://github.com/cferdinandi/snapshot
  * 
@@ -16,7 +16,7 @@
 /*  Adds padding and a white border */
 .img-photo {
   padding: 0.25em;
-  background-color: white;
+  background-color: #ffffff;
   -webkit-box-shadow: 0 0.0725em 0.0725em rgba(0, 0, 0, 0.1);
   box-shadow: 0 0.0725em 0.0725em rgba(0, 0, 0, 0.1);
 }
