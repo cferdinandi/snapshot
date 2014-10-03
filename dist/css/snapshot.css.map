@@ -1,0 +1,16 @@
+/**
+ * Snapshot v2.2.1
+ * A collection of simple image styles, by Chris Ferdinandi.
+ * http://github.com/cferdinandi/snapshot
+ * 
+ * Free to use under the MIT License.
+ * http://gomakethings.com/mit/
+ */
+
+{
+"version": 3,
+"mappings": ";AACA;UACW;EACV,MAAM,EAAE,sBAAmD;;;;AAI5D,UAAW;EACV,OAAO,EAAE,MAAY;EACrB,gBAAgB,ECDH,OAAO;EDEpB,UAAU,EAAE,sCAA8C;;;;;AAK3D,WAAY;EACX,aAAa,EAAE,GAAG",
+"sources": ["../components/_snapshot.scss","../_config.scss"],
+"names": [],
+"file": "snapshot.css"
+}
