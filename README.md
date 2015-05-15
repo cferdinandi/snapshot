@@ -11,7 +11,6 @@ Simple image styling.
 4. [Browser Compatibility](#browser-compatibility)
 5. [How to Contribute](#how-to-contribute)
 6. [License](#license)
-7. [Changelog](#changelog)
 
 
 
@@ -91,31 +90,3 @@ In lieu of a formal style guide, take care to maintain the existing coding style
 
 ## License
 Snapshot is licensed under the [MIT License](http://gomakethings.com/mit/).
-
-
-
-## Changelog
-
-Snapshot uses [semantic versioning](http://semver.org/).
-
-* v2.2.2 - October 19, 2014
-	* Updated `gulpfile.js` tasks and namespacing.
-* v2.2.1 - October 3, 2014
-	* Updated `gulpfile.js`.
-	* Updated readme.
-	* Updated travis config.
-* v2.2.0 - August 25, 2014
-	* Switched from Sass Lib to Ruby Sass.
-* v2.1.0 - June 23, 2014
-	* Converted to gulp.js workflow.
-	* Updated naming conventions.
-	* Added minified versions of files.
-	* Updated to three number versioning system.
-* v2.0 - December 2, 2013
-	* Rebuilt from scratch.
-	* Added Sass support.
-	* Switched to MIT License.
-* v1.0 - February 13, 2013
-	* Renamed `example.html` to `index.html`.
-* v1.0 - February 5, 2013
-	* Initial release.
