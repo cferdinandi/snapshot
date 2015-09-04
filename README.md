@@ -3,15 +3,6 @@ Simple image styling.
 
 [Download Snapshot](https://github.com/cferdinandi/snapshot/archive/master.zip) / [View the demo](http://cferdinandi.github.io/snapshot/)
 
-**In This Documentation**
-
-1. [Getting Started](#getting-started)
-2. [Installing with Package Managers](#installing-with-package-managers)
-3. [Working with the Source Files](#working-with-the-source-files)
-4. [Browser Compatibility](#browser-compatibility)
-5. [How to Contribute](#how-to-contribute)
-6. [License](#license)
-
 
 
 ## Getting Started
@@ -46,9 +37,9 @@ And that's it, you're done. Nice work!
 
 You can install Snapshot with your favorite package manager.
 
-* **[NPM](https://www.npmjs.org/):** `npm install cferdinandi/snapshot`
-* **[Bower](http://bower.io/):** `bower install https://github.com/cferdinandi/snapshot.git`
-* **[Component](http://component.io/):** `component install cferdinandi/snapshot`
+* **NPM:** `npm install cferdinandi/snapshot`
+* **Bower:** `bower install https://github.com/cferdinandi/snapshot.git`
+* **Component:** `component install cferdinandi/snapshot`
 
 
 
